@@ -1,7 +1,6 @@
 ares
 
-pro aresback je potreba vytvorit virtualni host se jmenem `ares.localhost` protoze k tomuto endpointu pristupuje frontend api
-===
+## pro aresback je potreba vytvorit virtualni host se jmenem `ares.localhost` protoze k tomuto endpointu pristupuje frontend api
 
 `cd aresback`
 `composer install`

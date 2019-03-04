@@ -1,2 +1,4 @@
 [submodule "aresback"]
 	url = https://github.com/Bearwithme2/aresback.git
+[submodule "aresfront"]
+	url = https://github.com/Bearwithme2/aresfront.git

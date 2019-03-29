@@ -7,5 +7,6 @@ ares
 `composer install`  
 `php bin/console doctrine:database:create`  
 `php bin/console doctrine:migrations:migrate`  
-`cd ../aresfront/public`  
+`cd ../aresfront/public`
+`npm install`
 `index.html`
